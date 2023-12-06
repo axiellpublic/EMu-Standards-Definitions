@@ -31,3 +31,7 @@ To allow definitions to be easily found, when adding a new definition please:
 When searching for a Standard to import as a starting point for your definitions you should ideally look for an institution which has a similar schema to yours in order to minimize the number of columns which will require updating.   
 
 To export a standard for uploading to this repository please refer to the Scheduled Exports (https://help.emu.axiell.com/latest/en/Topics/Common/Scheduled%20Exports.htm)  documentation in the EMu Help.
+
+To request upload acces please email Dominic.Marshall@axiell.com.
+
+if you don't already have a ssh key to allow access when provided please refer to https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account. 
