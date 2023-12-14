@@ -2,7 +2,7 @@
 A repository for storing Standards Definitions created by an institution.
 
 To allow definitions to be easily found, when adding a new definition please:
-1. Add a Top Level direcotry naming the Standard if one does not already exist.
+1. Add a Top Level directory naming the Standard if one does not already exist.
 2. Create a second level directory naming your institution if one does not already exist. You may decide to use your full institution name or EMu acronym e.g. Field Museum of Natural History or FMNH
 3. Add the standard definition into your directory
 
