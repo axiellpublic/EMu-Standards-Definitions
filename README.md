@@ -1,5 +1,5 @@
 # EMu-Standards-Definitions
-A repository for storing Standards Definitions created by an institution.
+A repository for the estandards module and for storing Standards Definitions created by an institution.
 
 To allow definitions to be easily found, when adding a new definition please:
 1. Add a Top Level directory naming the Standard if one does not already exist.
