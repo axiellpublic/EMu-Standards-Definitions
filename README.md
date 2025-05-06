@@ -1,4 +1,4 @@
-# EMu-Standards-Definitions
+# Standards
 A repository for the estandards module and for storing Standards Definitions created by an institution.
 
 To allow definitions to be easily found, when adding a new definition please:
